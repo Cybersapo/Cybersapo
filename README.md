@@ -2,7 +2,7 @@
 
 - 🌱 Estudando HTML, CSS, JavaScript, Python  e ...
 
-<div align="center">
+<div align="space-between">
   <a href="https://github.com/Cybersapo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cybersapo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersapo&layout=compact&langs_count=16&theme=dark"/>
