@@ -3,10 +3,10 @@
 - 🌱 Estudando Matemática pela CEDERJ/UFF (5/8) e DevOps pela UNOPAR (1/5)
 - 🌱 Estudando HTML, CSS, JavaScript, Python  e ...
 
-<div align="center">
+<div align="space-between">
   <a href="https://github.com/Cybersapo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cybersapo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersapo&layout=compact&langs_count=16&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Cybersapo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersapo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="cybersapo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
